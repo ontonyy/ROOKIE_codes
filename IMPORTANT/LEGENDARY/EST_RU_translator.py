@@ -47,5 +47,6 @@ def main(url):
 
         root.mainloop()
 
+
 if __name__ == '__main__':
     main('https://sonaveeb.ee/')
