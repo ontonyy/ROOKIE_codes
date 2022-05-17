@@ -1,0 +1,19 @@
+[ver:1,total:11940,branch:master]
+IMPORTANT/neural_network/define_digits.py:3499,1650801600:360,1650816000:180,1650819600:180,1650834000:180,1650837600:180,1650927600:2167,1650956400:154,1650960000:98,m
+IMPORTANT/ethical_hacking/network_scanner.py:3091,1647288000:465,1647291600:861,1647327600:640,1647331200:1065,1650798000:60,m
+IMPORTANT/useful_modules/numpy_module/numpy_try.py:1851,1650798000:1851,m
+IMPORTANT/neural_network/from_site/define_digits2.py:1812,1650956400:1812,d
+.gtm/Python-> define_digits2.app:231,1650956400:231,r
+.gtm/Python-> numpy_try.app:229,1650798000:229,r
+IMPORTANT/neural_network/from_video/define_digits.py:222,1650956400:222,d
+IMPORTANT/ethical_hacking/mac_subprocess.py:210,1646809200:210,m
+IMPORTANT/LEGENDARY/EST_RU_translator.py:180,1647331200:180,m
+.gtm/Python-> define_digits.app:173,1650927600:173,r
+IMPORTANT/neural_network/define_digits2.py:167,1650956400:162,1650960000:5,d
+.gtm/Python-> network_scanner.app:89,1647288000:15,1647291600:39,1647327600:20,1647331200:15,r
+.gtm/Python-> define_digits2 (1).app:44,1650956400:44,r
+.gtm/Python-> define_digits (1).app:32,1650956400:15,1650960000:17,r
+IMPORTANT/useful_modules/pynput_module.py:30,1650798000:30,r
+IMPORTANT/sometimes/ip_info_map.py:30,1646809200:30,m
+IMPORTANT/useful_modules/matplotlib_mod/plt_pies.py:30,1650798000:30,r
+IMPORTANT/useful_modules/numpy_module/numpy_module.py:20,1650798000:20,m
