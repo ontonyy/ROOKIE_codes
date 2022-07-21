@@ -1,6 +1,6 @@
 import logging
 
-# logging.basicConfig(filename=r'C:\ROOKIE_codes\python_projects\IMPORTANT\useful_modules\logging_module\employee.log', format='%(levelname)s:%(message)s', level=logging.INFO)
+# logging.basicConfig(filename=r'C:\ROOKIE_codes\python_projects\important\useful_modules\logging_module\employee.log', format='%(levelname)s:%(message)s', level=logging.INFO)
 # or
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
