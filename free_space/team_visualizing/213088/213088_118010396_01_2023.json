@@ -1,0 +1,58 @@
+{
+  "buildingID" : "118010396",
+  "month": "01",
+  "year": "2023",
+  "total_area": 48.8,
+  "total_heated_area": 47.7,
+  "amount_total": 163.56,
+  "invoiceDetails": [
+    {
+      "description": "service",
+      "quantity" : 47.7,
+      "rate" : 0.6,
+      "unitPrice" : 28.62
+    },
+    {
+      "description": "heating",
+      "quantity" : 47.7,
+      "rate" : 1.607,
+      "unitPrice" : 76.67
+    },
+    {
+      "description": "gas",
+      "quantity" : 19,
+      "rate" : 1.41,
+      "unitPrice" : 26.79
+    },
+    {
+      "description": "cold water",
+      "quantity" : 10,
+      "rate" : 2.04,
+      "unitPrice" : 20.40
+    },
+    {
+      "description": "garbage removal",
+      "quantity" : 48.8,
+      "rate" : 0.069,
+      "unitPrice" : 3.36
+    },
+    {
+      "description": "maintenance of gas equipment",
+      "quantity" : 1,
+      "rate" : 0.9,
+      "unitPrice" : 0.9
+    },
+    {
+      "description": "repair fund",
+      "quantity" : 48.8,
+      "rate" : 0.135,
+      "unitPrice" : 6.59
+    },
+    {
+      "description": "water loses",
+      "quantity" : 1,
+      "rate" : 0.23,
+      "unitPrice" : 0.23
+    }
+  ]
+}

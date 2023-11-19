@@ -1,0 +1,58 @@
+{
+  "buildingID" : "118000323",
+  "month": "12",
+  "year": "2022",
+  "total_area": 47,
+  "total_heated_area": 47,
+  "amount_total": 117.32,
+  "invoiceDetails": [
+    {
+      "description": "service",
+      "quantity" : 47,
+      "rate" : 0.59,
+      "unitPrice" : 27.73
+    },
+    {
+      "description": "heating",
+      "quantity" : 47,
+      "rate" : 1.347,
+      "unitPrice" : 63.29
+    },
+    {
+      "description": "garbage removal",
+      "quantity" : 47,
+      "rate" : 0.082,
+      "unitPrice" : 3.86
+    },
+    {
+      "description": "hot water",
+      "quantity" : 2,
+      "rate" : 5.077,
+      "unitPrice" : 10.15
+    },
+    {
+      "description": "cold water",
+      "quantity" : 4,
+      "rate" : 2.02,
+      "unitPrice" : 8.08
+    },
+    {
+      "description": "gas",
+      "quantity" : 3,
+      "rate" : 1.225,
+      "unitPrice" : 3.68
+    },
+    {
+      "description": "maintenance of gas equipment",
+      "quantity" : 1,
+      "rate" : 0.3,
+      "unitPrice" : 0.3
+    },
+    {
+      "description": "SWEDBANK services",
+      "quantity" : 1,
+      "rate" : 0.23,
+      "unitPrice" : 0.23
+    }
+  ]
+}

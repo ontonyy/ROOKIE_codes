@@ -1,0 +1,58 @@
+{
+  "buildingID" : "118000132",
+  "month": "12",
+  "year": "2022",
+  "total_area": 32.2,
+  "total_heated_area": 30.5,
+  "amount_total": 97.021,
+  "invoiceDetails": [
+    {
+      "description": "service",
+      "quantity" : 30.5,
+      "rate" : 0.6,
+      "unitPrice" : 18.3
+    },
+    {
+      "description": "heating",
+      "quantity" : 30.5,
+      "rate" : 1.35,
+      "unitPrice" : 41.175
+    },
+    {
+      "description": "gas",
+      "quantity" : 3,
+      "rate" : 1.2,
+      "unitPrice" : 3.6
+    },
+    {
+      "description": "cold water",
+      "quantity" : 5,
+      "rate" : 2.02,
+      "unitPrice" : 10.10
+    },
+    {
+      "description": "hot water",
+      "quantity" : 3,
+      "rate" : 5.08,
+      "unitPrice" : 15.24
+    },
+    {
+      "description": "garbage removal",
+      "quantity" : 32.2,
+      "rate" : 0.08,
+      "unitPrice" : 2.576
+    },
+    {
+      "description": "gas maintenance",
+      "quantity" : 1,
+      "rate" : 1.2,
+      "unitPrice" : 1.2
+    },
+    {
+      "description": "repair fund",
+      "quantity" : 32.2,
+      "rate" : 0.15,
+      "unitPrice" : 4.83
+    }
+  ]
+}

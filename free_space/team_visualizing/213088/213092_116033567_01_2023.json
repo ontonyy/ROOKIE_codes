@@ -1,0 +1,28 @@
+{
+  "buildingID" : "116033567",
+  "month": "02",
+  "year": "2023",
+  "total_area":58,
+  "total_heated_area": 58,
+  "amount_total": 186.49,
+  "invoiceDetails": [
+  {
+	"description" : "Haldus/hooldus",
+	"quantity" : 58,
+	"unit" : "eur/m2",
+	"unitPrice" : 0.13
+  },
+  {
+	"description" : "Remondifond",
+	"quantity" : 58,
+	"unit" : "eur/m2",
+	"unitPrice" : 0.45
+  },
+  {
+	"description" : "Soojusenergia",
+	"quantity" : 58,
+	"unit" : "eur/m2",
+	"unitPrice" : 1.711
+  }
+]
+}

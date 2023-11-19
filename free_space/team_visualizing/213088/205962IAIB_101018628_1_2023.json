@@ -1,0 +1,45 @@
+{
+  "buildingID": "101018628",
+  "month": "1",
+  "year": "2023",
+  "total area": "46.5",
+  "amount total": "189.26",
+  "invoice_details": [
+    {
+      "description": "Vesi",
+      "quantity": "7",
+      "unit": "m3",
+      "unitPrice": "1.87"
+    },
+    {
+      "description": "Vee sooojendamine",
+      "quantity": "3",
+      "unit": "m3",
+      "unitPrice": "5.82"
+    },
+    {
+      "description": "Soojusenergia",
+      "quantity": "46.5",
+      "unit": "m2",
+      "unitPrice": "1.98"
+    },
+    {
+      "description": "Remondifond",
+      "quantity": "46.5",
+      "unit": "m2",
+      "unitPrice": "0.5"
+    },
+    {
+      "description": "Haaldus",
+      "quantity": "46.5",
+      "unit": "m2",
+      "unitPrice": "0.113"
+    },
+    {
+      "description": "Prügivedu",
+      "quantity": "46.5",
+      "unit": "m2",
+      "unitPrice": "0.1369"
+    }
+  ]
+}
