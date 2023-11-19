@@ -1,314 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0c0a716d-2c68-483e-8966-b195fcfce4b1" name="Changes" comment="Telegram bot (05.07 - 21.07) have abilities: exchange currencies, translate texts, random images, send jokes, set alerts,">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/telebot/tele2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/telegram/example/anekdots.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/telegram/example/bot_teleg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/telegram/example/currency_exchange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/telegram/example/geckodriver.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/telegram/example/inline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/telegram/example/other_files/anekdots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/telegram/example/other_files/constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/telegram/example/other_files/dsa" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/telegram/example/other_files/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/telegram/example/other_files/geckodriver.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/telegram/example/password_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/telegram/example/que_teleg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/telegram/example/small_scripts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/telegram/example/twilio_send.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/telegram_api/tele_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPORTANT/useful_modules/asyncronous/async1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPORTANT/useful_modules/translator/trans.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/important/useful_modules/encryption/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/important/useful_modules/pandas_module/big_eggs_histogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/edukoht/for_loop/additional_task" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/edukoht/for_loop/example_for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/edukoht/telepot/tele1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/password_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/youtube_downloader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/apriori_data_preprocessing/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/apriori_data_preprocessing/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/attempts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/breast_cancer/breast-cancer-wisconsin.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/breast_cancer/breast-cancer-wisconsin.names" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/breast_cancer/breast_cancer.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/classification_data/additional.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/classification_data/all_test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/classification_data/all_train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/classification_data/mines_test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/classification_data/mines_train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/classification_data/reproduce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/classification_data/rocks_test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/classification_data/rocks_train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/classification_data/sonar.mines" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/classification_data/sonar.names" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/classification_data/sonar.rocks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/file_work_csv_txt/boston-house.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/file_work_csv_txt/converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/file_work_csv_txt/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/file_work_csv_txt/new_data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/file_work_csv_txt/student-mat.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/grab/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/grab/grab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/own_course_network/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/own_course_network/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/own_course_network/edges.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/own_course_network/output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/retail_data/convert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/retail_data/converting_with_association.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/retail_data/retail_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/retail_data/retail_data_small.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/team_visualizing/213088/205962IAIB_101013411_1_2023.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/team_visualizing/213088/205962IAIB_101018628_1_2023.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/team_visualizing/213088/213088_118000132_10_2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/team_visualizing/213088/213088_118000132_12_2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/team_visualizing/213088/213088_118000234_01_2023.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/team_visualizing/213088/213088_118000323_01_2023.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/team_visualizing/213088/213088_118000329_01_2023.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/team_visualizing/213088/213088_118000329_11_2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/team_visualizing/213088/213088_118010396_01_2023.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/team_visualizing/213088/213088_118010396_10_2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/team_visualizing/213088/213088_118010396_11_2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/team_visualizing/213088/213088_118010396_12_2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/team_visualizing/213088/213092_116033567_01_2023.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/team_visualizing/gainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/team_visualizing/main_all.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/weka/Copy of Copy of Copy of Copy of Copy of less_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/weka/Copy of Copy of Copy of Copy of less_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/weka/Digiehituse_andmestik_2023.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/weka/Digiehituse_andmestik_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/weka/bank-data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/weka/digi.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/weka/file.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/weka/new.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/weka/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free_space/weka/test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_projects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Disain(tkinter, kivy, pyqt)/TKINTER/address_book.db" beforeDir="false" afterPath="$PROJECT_DIR$/important/Disain(tkinter, kivy, pyqt)/TKINTER/address_book.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Disain(tkinter, kivy, pyqt)/TKINTER/tkinet_dialogbox.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Disain(tkinter, kivy, pyqt)/TKINTER/tkinet_dialogbox.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_checkboxes.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_checkboxes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_database.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_database.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_frame.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_frame.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_images.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_images.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_lesson1.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_lesson1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_messagebox.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_messagebox.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_optionmenu.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_optionmenu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_password_guess.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_password_guess.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_plots.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_plots.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_radio.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_radio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_secondW.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_secondW.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_simple_askGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_simple_askGame.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_sliders.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_sliders.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_weather.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Disain(tkinter, kivy, pyqt)/TKINTER/tkinter_weather.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Disain(tkinter, kivy, pyqt)/images/try1.png" beforeDir="false" afterPath="$PROJECT_DIR$/important/Disain(tkinter, kivy, pyqt)/images/try1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Disain(tkinter, kivy, pyqt)/images/try2.png" beforeDir="false" afterPath="$PROJECT_DIR$/important/Disain(tkinter, kivy, pyqt)/images/try2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Disain(tkinter, kivy, pyqt)/images/try3.png" beforeDir="false" afterPath="$PROJECT_DIR$/important/Disain(tkinter, kivy, pyqt)/images/try3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Euler_exercises/Euler - 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Euler_exercises/Euler - 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Euler_exercises/Euler - 12.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Euler_exercises/Euler - 12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Euler_exercises/Euler - 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Euler_exercises/Euler - 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Euler_exercises/Euler - 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Euler_exercises/Euler - 3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Euler_exercises/Euler - 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Euler_exercises/Euler - 4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Euler_exercises/Euler - 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Euler_exercises/Euler - 5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Euler_exercises/Euler - 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Euler_exercises/Euler - 6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Euler_exercises/Euler - 7.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Euler_exercises/Euler - 7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Euler_exercises/Euler - 8.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Euler_exercises/Euler - 8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/Euler_exercises/Euler - 9.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/Euler_exercises/Euler - 9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/LEGENDARY/EST_RU_translator.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/LEGENDARY/EST_RU_translator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/LEGENDARY/Euro_2020_LIVE.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/LEGENDARY/Euro_2020_LIVE.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/LEGENDARY/agreement.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/LEGENDARY/agreement.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/LEGENDARY/auto-excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/LEGENDARY/auto-excel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/LEGENDARY/auto24_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/LEGENDARY/auto24_check.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/LEGENDARY/casio_info_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/LEGENDARY/casio_info_check.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/LEGENDARY/clicker_selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/LEGENDARY/clicker_selenium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/LEGENDARY/e_kyla_sisse.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/LEGENDARY/e_kyla_sisse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/LEGENDARY/euro2020_calendar.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/LEGENDARY/euro2020_calendar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/LEGENDARY/euro2020_info_tk.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/LEGENDARY/euro2020_info_tk.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/LEGENDARY/fifa_players.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/LEGENDARY/fifa_players.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/LEGENDARY/get_wifi_password.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/LEGENDARY/get_wifi_password.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/LEGENDARY/gmail_auto_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/LEGENDARY/gmail_auto_message.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/LEGENDARY/guessWord_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/LEGENDARY/guessWord_game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/LEGENDARY/images_rotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/LEGENDARY/images_rotation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/LEGENDARY/instagram_sisse.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/LEGENDARY/instagram_sisse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/LEGENDARY/nickname_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/LEGENDARY/nickname_generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/LEGENDARY/pandas_matplotlib_estonia.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/LEGENDARY/pandas_matplotlib_estonia.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/LEGENDARY/password_guess.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/LEGENDARY/password_guess.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/LEGENDARY/scraping_images.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/LEGENDARY/scraping_images.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/LEGENDARY/vk_auto_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/LEGENDARY/vk_auto_message.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/LEGENDARY/vk_friend_find.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/LEGENDARY/vk_friend_find.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/LEGENDARY/word_conter.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/LEGENDARY/word_conter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/SQLite3/databases/customer.db" beforeDir="false" afterPath="$PROJECT_DIR$/important/SQLite3/databases/customer.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/SQLite3/databases/fsoki1.db" beforeDir="false" afterPath="$PROJECT_DIR$/important/SQLite3/databases/fsoki1.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/SQLite3/databases/new_database.db" beforeDir="false" afterPath="$PROJECT_DIR$/important/SQLite3/databases/new_database.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/SQLite3/free_codeCamp/SQL_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/SQLite3/free_codeCamp/SQL_start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/SQLite3/learn_withRU/fsoki1.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/SQLite3/learn_withRU/fsoki1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/SQLite3/site_tutorial/big_SQL.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/SQLite3/site_tutorial/big_SQL.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/SQLite3/site_tutorial/big_SQL2.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/SQLite3/site_tutorial/big_SQL2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/SQLite3/site_tutorial/big_SQL3.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/SQLite3/site_tutorial/big_SQL3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/SQLite3/site_tutorial/big_SQL4.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/SQLite3/site_tutorial/big_SQL4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/URSINA/Anton.png" beforeDir="false" afterPath="$PROJECT_DIR$/important/URSINA/Anton.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/URSINA/Tic-Tac game.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/URSINA/Tic-Tac game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/URSINA/Vinni.png" beforeDir="false" afterPath="$PROJECT_DIR$/important/URSINA/Vinni.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/URSINA/arm.png" beforeDir="false" afterPath="$PROJECT_DIR$/important/URSINA/arm.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/URSINA/ball_hit.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/URSINA/ball_hit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/URSINA/balls.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/URSINA/balls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/URSINA/clicker.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/URSINA/clicker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/URSINA/cube_actions.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/URSINA/cube_actions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/URSINA/gera.png" beforeDir="false" afterPath="$PROJECT_DIR$/important/URSINA/gera.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/URSINA/newGAME.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/URSINA/newGAME.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/URSINA/rebound_ball.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/URSINA/rebound_ball.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/URSINA/shit_snake/SNAKE.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/URSINA/shit_snake/SNAKE.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/URSINA/shit_snake/game_objects.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/URSINA/shit_snake/game_objects.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/URSINA/simple_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/URSINA/simple_game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/URSINA/snake.png" beforeDir="false" afterPath="$PROJECT_DIR$/important/URSINA/snake.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/URSINA/snake_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/URSINA/snake_game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/URSINA/solar_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/URSINA/solar_system.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/URSINA/table_tennis.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/URSINA/table_tennis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/URSINA/ursina_attempts.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/URSINA/ursina_attempts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/URSINA/ursina_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/URSINA/ursina_game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/URSINA/ursina_tries.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/URSINA/ursina_tries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/discord_bots/bot_envs.env" beforeDir="false" afterPath="$PROJECT_DIR$/important/discord_bots/bot_envs.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/discord_bots/guessNum_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/discord_bots/guessNum_bot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/discord_bots/haudi_shit_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/discord_bots/haudi_shit_bot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/discord_bots/new_member.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/discord_bots/new_member.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/discord_bots/start_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/discord_bots/start_bot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/django/beginning.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/django/beginning.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/ethical_hacking/mac_subprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/ethical_hacking/mac_subprocess.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/ethical_hacking/network_scanner.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/ethical_hacking/network_scanner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/neural_network/define_digits.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/neural_network/define_digits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/neural_network/digits.model/keras_metadata.pb" beforeDir="false" afterPath="$PROJECT_DIR$/important/neural_network/digits.model/keras_metadata.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/neural_network/digits.model/saved_model.pb" beforeDir="false" afterPath="$PROJECT_DIR$/important/neural_network/digits.model/saved_model.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/neural_network/digits.model/variables/variables.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/important/neural_network/digits.model/variables/variables.data-00000-of-00001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/neural_network/digits.model/variables/variables.index" beforeDir="false" afterPath="$PROJECT_DIR$/important/neural_network/digits.model/variables/variables.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/neural_network/digits/digit0.png" beforeDir="false" afterPath="$PROJECT_DIR$/important/neural_network/digits/digit0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/neural_network/digits/digit1.png" beforeDir="false" afterPath="$PROJECT_DIR$/important/neural_network/digits/digit1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/neural_network/digits/digit2.png" beforeDir="false" afterPath="$PROJECT_DIR$/important/neural_network/digits/digit2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/neural_network/digits/digit3.png" beforeDir="false" afterPath="$PROJECT_DIR$/important/neural_network/digits/digit3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/neural_network/digits/digit4.png" beforeDir="false" afterPath="$PROJECT_DIR$/important/neural_network/digits/digit4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/neural_network/digits/digit5.png" beforeDir="false" afterPath="$PROJECT_DIR$/important/neural_network/digits/digit5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/neural_network/digits/digit6.png" beforeDir="false" afterPath="$PROJECT_DIR$/important/neural_network/digits/digit6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/neural_network/digits/digit7.png" beforeDir="false" afterPath="$PROJECT_DIR$/important/neural_network/digits/digit7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/neural_network/digits/digit8.png" beforeDir="false" afterPath="$PROJECT_DIR$/important/neural_network/digits/digit8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/neural_network/digits/digit9.png" beforeDir="false" afterPath="$PROJECT_DIR$/important/neural_network/digits/digit9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/scraping_images/media/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/important/scraping_images/media/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/scraping_images/scraping_images5.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/scraping_images/scraping_images5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/sometimes/ip_info_map.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/sometimes/ip_info_map.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/telegram_bots/bitcoin_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/old/bitcoin_check.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/telegram_bots/coins_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/old/coins_bot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/telegram_bots/cookie/session" beforeDir="false" afterPath="$PROJECT_DIR$/important/telegram_bots/cookie/session" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/telegram_bots/crypto_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/old/crypto_bot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/telegram_bots/keyboard_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/old/keyboard_bot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/telegram_bots/map_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/old/map_bot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/telegram_bots/multiple_buttons.py" beforeDir="false" afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/old/multiple_buttons.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/telegram_bots/notification_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/old/notification_bot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/telegram_bots/schedule_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/old/schedule_bot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/telegram_bots/telegram_stickers_pics/bear.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/important/telegram_bots/telegram_stickers_pics/bear.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/telegram_bots/telegram_stickers_pics/bot_master.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/important/telegram_bots/telegram_stickers_pics/bot_master.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/telegram_bots/telegram_stickers_pics/cold_photo.webp" beforeDir="false" afterPath="$PROJECT_DIR$/important/telegram_bots/telegram_stickers_pics/cold_photo.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/telegram_bots/telegram_stickers_pics/dog_welcome.webp" beforeDir="false" afterPath="$PROJECT_DIR$/important/telegram_bots/telegram_stickers_pics/dog_welcome.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/telegram_bots/telegram_stickers_pics/hacker.webp" beforeDir="false" afterPath="$PROJECT_DIR$/important/telegram_bots/telegram_stickers_pics/hacker.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/telegram_bots/telegram_stickers_pics/hello_pic.webp" beforeDir="false" afterPath="$PROJECT_DIR$/important/telegram_bots/telegram_stickers_pics/hello_pic.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/telegram_bots/telegram_stickers_pics/hot_photo.webp" beforeDir="false" afterPath="$PROJECT_DIR$/important/telegram_bots/telegram_stickers_pics/hot_photo.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/telegram_bots/telegram_stickers_pics/lord_hello.webp" beforeDir="false" afterPath="$PROJECT_DIR$/important/telegram_bots/telegram_stickers_pics/lord_hello.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/telegram_bots/telegram_stickers_pics/medium_photo.webp" beforeDir="false" afterPath="$PROJECT_DIR$/important/telegram_bots/telegram_stickers_pics/medium_photo.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/telegram_bots/user_info_collecting.py" beforeDir="false" afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/old/user_info_collecting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/telegram_bots/weather_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/old/weather_bot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/JSON_module/json_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/JSON_module/json_start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/asyncion_module/async_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/asyncion_module/async_start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/encryption/big_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/encryption/big_main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/encryption/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/IMPORTANT/telegram_bots/telegram/callback.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/encryption/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/encryption/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/flask_module/2_flask/appflask_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/flask_module/2_flask/appflask_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/flask_module/2_flask/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/flask_module/2_flask/static/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/flask_module/2_flask/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/flask_module/2_flask/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/flask_module/2_flask/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/flask_module/2_flask/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/flask_module/2_flask/templates/update.html" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/flask_module/2_flask/templates/update.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/flask_module/2_flask/test.db" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/flask_module/2_flask/test.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/heapq_try.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/heapq_try.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/keybord_module/keys_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/keybord_module/keys_check.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/logging_module/basicConfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/logging_module/basicConfig.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/logging_module/class-log.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/logging_module/class-log.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/logging_module/first_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/logging_module/first_start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/logging_module/log-debug.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/logging_module/log-debug.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/matplotlib_mod/pandas_matplotlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/matplotlib_mod/pandas_matplotlib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/matplotlib_mod/plt_bars.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/matplotlib_mod/plt_bars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/matplotlib_mod/plt_colormap.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/matplotlib_mod/plt_colormap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/matplotlib_mod/plt_continue.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/matplotlib_mod/plt_continue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/matplotlib_mod/plt_histogram.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/matplotlib_mod/plt_histogram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/matplotlib_mod/plt_pies.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/matplotlib_mod/plt_pies.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/matplotlib_mod/plt_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/matplotlib_mod/plt_start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/module_transliterate.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/module_transliterate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/numpy_module/numpy_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/numpy_module/numpy_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/numpy_module/numpy_try.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/numpy_module/numpy_try.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/pandas_module/start_pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/pandas_module/start_pandas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/pillow_module/700_dogs/700_dog1.png" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/pillow_module/700_dogs/700_dog1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/pillow_module/700_dogs/700_dog2.png" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/pillow_module/700_dogs/700_dog2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/pillow_module/700_dogs/700_dog3.png" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/pillow_module/700_dogs/700_dog3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/pillow_module/dogs_images_png/dog1.png" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/pillow_module/dogs_images_png/dog1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/pillow_module/dogs_images_png/dog2.png" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/pillow_module/dogs_images_png/dog2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/pillow_module/dogs_images_png/dog3.png" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/pillow_module/dogs_images_png/dog3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/pillow_module/image_lifahacks.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/pillow_module/image_lifahacks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/pillow_module/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/pillow_module/start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/pyautogui_module/another_mains.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/pyautogui_module/another_mains.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/pyautogui_module/auto_dinosaur.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/pyautogui_module/auto_dinosaur.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/pyautogui_module/experiences.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/pyautogui_module/experiences.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/pyautogui_module/messageBoxes.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/pyautogui_module/messageBoxes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/pyautogui_module/moving_icons.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/pyautogui_module/moving_icons.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/pyautogui_module/position_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/pyautogui_module/position_check.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/pyautogui_module/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/pyautogui_module/start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/pynput_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/pynput_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/pyowm_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/pyowm_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/re_module/nonsense_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/re_module/nonsense_game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/selenium_module/Selenium_waits_youtube.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/selenium_module/Selenium_waits_youtube.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/selenium_module/auction_check_selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/selenium_module/auction_check_selenium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/selenium_module/auth_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/selenium_module/auth_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/selenium_module/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/selenium_module/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/selenium_module/gmail_sisse.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/selenium_module/gmail_sisse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/selenium_module/screenshot_selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/selenium_module/screenshot_selenium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/selenium_module/selenium_cookies_vk.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/selenium_module/selenium_cookies_vk.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/selenium_module/selenium_headless.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/selenium_module/selenium_headless.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/selenium_module/selenium_multiprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/selenium_module/selenium_multiprocessing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/selenium_module/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/selenium_module/start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/selenium_module/vk_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/selenium_module/vk_message.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/smtplib_module/image_send.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/smtplib_module/image_send.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/smtplib_module/just_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/smtplib_module/just_message.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/threading_module/hi_hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/threading_module/hi_hello.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/useful_modules/threading_module/multi_potoki.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/threading_module/multi_potoki.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/webscraping/crypto/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/webscraping/crypto/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMPORTANT/webscraping/crypto/main2_cryptoPrices.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/webscraping/crypto/main2_cryptoPrices.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Recipe_book_python/2.2_start_end_with.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Recipe_book_python/2.2_start_end_with.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Recipe_book_python/2.4_module_re.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Recipe_book_python/2.4_module_re.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Recipe_book_python/Ordered_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Recipe_book_python/Ordered_dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Recipe_book_python/collections,deque.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Recipe_book_python/collections,deque.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Recipe_book_python/default_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Recipe_book_python/default_dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Recipe_book_python/dictionary_compre.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Recipe_book_python/dictionary_compre.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Recipe_book_python/groupby_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Recipe_book_python/groupby_func.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Recipe_book_python/heapq_heapify.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Recipe_book_python/heapq_heapify.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Recipe_book_python/min_max_in_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Recipe_book_python/min_max_in_dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Recipe_book_python/operator_itemgettr.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Recipe_book_python/operator_itemgettr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Recipe_book_python/re_ignorecase.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Recipe_book_python/re_ignorecase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Recipe_book_python/recursion_summa.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Recipe_book_python/recursion_summa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Recipe_book_python/repeated_items.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Recipe_book_python/repeated_items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Recipe_book_python/text_strip.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Recipe_book_python/text_strip.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Recipe_book_python/unpacking_sequances-1.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Recipe_book_python/unpacking_sequances-1.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Recipe_book_python/word_counter_in_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Recipe_book_python/word_counter_in_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Tasks_xD/Task - 10.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Tasks_xD/Task - 10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Tasks_xD/Task - 11.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Tasks_xD/Task - 11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Tasks_xD/Task - 12.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Tasks_xD/Task - 12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Tasks_xD/Task - 13.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Tasks_xD/Task - 13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Tasks_xD/Task - 14.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Tasks_xD/Task - 14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Tasks_xD/Task - 15.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Tasks_xD/Task - 15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Tasks_xD/Task - 16(random_password).py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Tasks_xD/Task - 16(random_password).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Tasks_xD/Task - 17.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Tasks_xD/Task - 17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Tasks_xD/Task - 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Tasks_xD/Task - 5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Tasks_xD/Task - 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Tasks_xD/Task - 6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Tasks_xD/Task - 7.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Tasks_xD/Task - 7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Tasks_xD/Task - 8.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Tasks_xD/Task - 8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Tasks_xD/Task - 9.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Tasks_xD/Task - 9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Tasks_xD/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Tasks_xD/task_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Tasks_xD/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Tasks_xD/task_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Tasks_xD/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Tasks_xD/task_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Tasks_xD/zproger_task/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Tasks_xD/zproger_task/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/Tasks_xD/zproger_task/path_change.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/Tasks_xD/zproger_task/path_change.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/grokaem_algorithms/4.8_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/grokaem_algorithms/4.8_exercise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/grokaem_algorithms/5_exercises.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/grokaem_algorithms/5_exercises.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/grokaem_algorithms/6_find_by_length.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/grokaem_algorithms/6_find_by_length.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/grokaem_algorithms/7_algorithm_deixter.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/grokaem_algorithms/7_algorithm_deixter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/grokaem_algorithms/8_greedy_algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/grokaem_algorithms/8_greedy_algorithm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/grokaem_algorithms/Recursions.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/grokaem_algorithms/Recursions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/grokaem_algorithms/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/grokaem_algorithms/binary_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/grokaem_algorithms/list_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/grokaem_algorithms/list_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/grokaem_algorithms/massifs.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/grokaem_algorithms/massifs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/grokaem_algorithms/quicksort.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/grokaem_algorithms/quicksort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/grokaem_algorithms/selection_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/grokaem_algorithms/selection_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/grokaem_algorithms/stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/grokaem_algorithms/stack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/just_good/30money.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/just_good/30money.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/just_good/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/just_good/calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/just_good/discriminant.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/just_good/discriminant.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/just_good/guess_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/just_good/guess_num.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/just_good/guess_word.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/just_good/guess_word.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/just_good/ladder_rhombus.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/just_good/ladder_rhombus.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/just_good/prime_nums.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/just_good/prime_nums.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/just_good/questions_unusual.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/just_good/questions_unusual.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/just_good/reverse_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/just_good/reverse_text.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/just_good/search_google.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/just_good/search_google.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/just_good/weight.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/just_good/weight.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/myown_programmer/drunkard.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/myown_programmer/drunkard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/myown_programmer/gallow.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/myown_programmer/gallow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/myown_programmer/recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/myown_programmer/recursion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/myown_programmer/stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/myown_programmer/stack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/myown_programmer/ticket_queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/myown_programmer/ticket_queue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/training_exercises/Fizz_Bizz.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/training_exercises/Fizz_Bizz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/training_exercises/almost_emojis.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/training_exercises/almost_emojis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/training_exercises/args_kwargs.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/training_exercises/args_kwargs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/training_exercises/class_commits.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/training_exercises/class_commits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/training_exercises/comparison.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/training_exercises/comparison.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/training_exercises/decorators/decorator_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/training_exercises/decorators/decorator_start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/training_exercises/diamond.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/training_exercises/diamond.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/training_exercises/dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/training_exercises/dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/training_exercises/exponent.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/training_exercises/exponent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/training_exercises/infinites.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/training_exercises/infinites.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/training_exercises/largest_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/training_exercises/largest_num.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/training_exercises/logging_prog.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/training_exercises/logging_prog.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/training_exercises/nums_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/training_exercises/nums_words.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/training_exercises/pet.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/training_exercises/pet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/training_exercises/random_nums.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/training_exercises/random_nums.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/training_exercises/randomy.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/training_exercises/randomy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/training_exercises/robots_calculation.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/training_exercises/robots_calculation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/training_exercises/school_members.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/training_exercises/school_members.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/training_exercises/shoplist.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/training_exercises/shoplist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/training_exercises/some_in.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/training_exercises/some_in.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/training_exercises/student_counter.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/training_exercises/student_counter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/training_exercises/title_change.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/training_exercises/title_change.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/training_exercises/xes_challenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/training_exercises/xes_challenge.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESS_need/training_exercises/zoo_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/less_need/training_exercises/zoo_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attempts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attempts2.py" beforeDir="false" afterPath="$PROJECT_DIR$/free_space/attempts2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/important/useful_modules/encryption/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/important/useful_modules/encryption/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -336,29 +95,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ontony/Desktop/myself/codes/python/python_codes/free_space/team_visualizing/213088&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\gavra\OneDrive\Рабочий стол\Useful_files\ALL_CODES\python_codes\IMPORTANT\sometimes" />
+      <recent name="$PROJECT_DIR$/free_space/team_visualizing/213088" />
+      <recent name="$PROJECT_DIR$/free_space/weka" />
+      <recent name="$PROJECT_DIR$/free_space/classification_data" />
+      <recent name="$PROJECT_DIR$/free_space" />
+      <recent name="$PROJECT_DIR$/free_space/file_work_csv_txt" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/free_space/breast_cancer" />
+      <recent name="$PROJECT_DIR$/free_space/grab" />
+      <recent name="$PROJECT_DIR$/free_space/file_work_csv_txt" />
+      <recent name="$PROJECT_DIR$/free_space" />
       <recent name="C:\Useful_files\ALL_CODES\python_codes\important\telegram_bots\telegram\example" />
-      <recent name="C:\Useful_files\ALL_CODES\python_codes\important\telegram_bots\telegram\example\other_files" />
-      <recent name="C:\Useful_files\ALL_CODES\python_codes\projects" />
-      <recent name="C:\Useful_files\ALL_CODES\python_codes\important\useful_modules" />
-      <recent name="C:\Useful_files\ALL_CODES\python_codes\projects\edukoht" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.bot_teleg (1)">
-    <configuration name="anekdots" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.code">
+    <configuration name="code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -366,11 +134,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/important/telegram_bots/telegram/example" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/free_space/own_course_network" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/important/telegram_bots/telegram/example/anekdots.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/free_space/own_course_network/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -379,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bot_teleg (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="gainer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -387,11 +156,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/important/telegram_bots/telegram/example" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/free_space/team_visualizing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/important/telegram_bots/telegram/example/bot_teleg.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/free_space/team_visualizing/gainer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -400,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="currency_exchange" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="reproduce" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -408,11 +178,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/important/telegram_bots/telegram/example" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/free_space/classification_data" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/important/telegram_bots/telegram/example/currency_exchange.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/free_space/classification_data/reproduce.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -421,7 +192,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="schedule_script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -429,11 +200,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/important/telegram_bots/telegram/example" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/free_space/weka" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/important/telegram_bots/telegram/example/schedule_script.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/free_space/weka/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -442,7 +214,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="twilio_send" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -450,11 +222,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/important/telegram_bots/telegram/example" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/free_space/weka" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/important/telegram_bots/telegram/example/twilio_send.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/free_space/weka/test2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -465,11 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.bot_teleg (1)" />
-        <item itemvalue="Python.currency_exchange" />
-        <item itemvalue="Python.anekdots" />
-        <item itemvalue="Python.twilio_send" />
-        <item itemvalue="Python.schedule_script" />
+        <item itemvalue="Python.code" />
+        <item itemvalue="Python.gainer" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.reproduce" />
       </list>
     </recent_temporary>
   </component>
@@ -481,6 +254,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646580995038</updated>
+      <workItem from="1674588899333" duration="824000" />
+      <workItem from="1676191990204" duration="14897000" />
+      <workItem from="1676880779183" duration="6944000" />
+      <workItem from="1676890793314" duration="27000" />
+      <workItem from="1676890822939" duration="1000" />
+      <workItem from="1676890836589" duration="2483000" />
+      <workItem from="1676893745195" duration="5809000" />
+      <workItem from="1676916525432" duration="3211000" />
+      <workItem from="1678281598392" duration="562000" />
+      <workItem from="1678546850403" duration="13227000" />
+      <workItem from="1678699646542" duration="9796000" />
+      <workItem from="1679097518769" duration="546000" />
+      <workItem from="1679098092065" duration="3018000" />
+      <workItem from="1679340104937" duration="2040000" />
+      <workItem from="1679523758787" duration="1155000" />
+      <workItem from="1679582695781" duration="5722000" />
+      <workItem from="1680427426069" duration="1234000" />
+      <workItem from="1681023472524" duration="720000" />
+      <workItem from="1681142047045" duration="2412000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1652778408913</created>
@@ -491,6 +283,9 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -508,5 +303,17 @@
     <MESSAGE value="update" />
     <MESSAGE value="Telegram bot (05.07 - 21.07) have abilities: exchange currencies, translate texts, random images, send jokes, set alerts," />
     <option name="LAST_COMMIT_MESSAGE" value="Telegram bot (05.07 - 21.07) have abilities: exchange currencies, translate texts, random images, send jokes, set alerts," />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_codes$main.coverage" NAME="main Coverage Results" MODIFIED="1676288249822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/free_space/apriori_data_preprocessing" />
+    <SUITE FILE_PATH="coverage/python_codes$grab.coverage" NAME="grab Coverage Results" MODIFIED="1678282052301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/free_space/grab" />
+    <SUITE FILE_PATH="coverage/python_codes$gainer.coverage" NAME="gainer Coverage Results" MODIFIED="1679343185137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/free_space/team_visualizing" />
+    <SUITE FILE_PATH="coverage/python_codes$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1678731903813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/free_space/weka" />
+    <SUITE FILE_PATH="coverage/python_codes$test.coverage" NAME="test Coverage Results" MODIFIED="1678719656921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/free_space/weka" />
+    <SUITE FILE_PATH="coverage/python_codes$converter.coverage" NAME="converter Coverage Results" MODIFIED="1676194085573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/free_space/file_work_csv_txt" />
+    <SUITE FILE_PATH="coverage/python_codes$reproduce.coverage" NAME="reproduce Coverage Results" MODIFIED="1678659185299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/free_space/classification_data" />
+    <SUITE FILE_PATH="coverage/python_codes$code.coverage" NAME="code Coverage Results" MODIFIED="1681143260630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/free_space/own_course_network" />
+    <SUITE FILE_PATH="coverage/python_codes$attempts.coverage" NAME="attempts Coverage Results" MODIFIED="1676193140336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_codes$convert.coverage" NAME="convert Coverage Results" MODIFIED="1678281802987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/free_space/retail_data" />
   </component>
 </project>

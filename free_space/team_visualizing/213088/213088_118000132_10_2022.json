@@ -56,3 +56,45 @@
     }
   ]
 }
+
+{
+	"buildingID": "118000132",
+	"total_area": 32.2,
+	"total_heated_area": 30.5,
+	"yearly_payment": [
+      {
+			"year": "2022",
+			"montly_payments": [
+              {
+				"month": "10",
+				"amount_total": 75.278,
+				"invoiceDetails": [
+                  {
+					"description": "service",
+					"quantity": 30.5,
+					"rate": 0.6,
+					"unitPrice": 18.3
+                  }
+                ]
+              }
+            ]
+		},
+		{
+			"year": "2020",
+			"montly_payments": [
+              {
+				"month": "2",
+				"amount_total": 75.278,
+				"invoiceDetails": [
+                  {
+					"description": "service",
+					"quantity": 30.5,
+					"rate": 0.6,
+					"unitPrice": 18.3
+				  }
+                ]
+			  }
+            ]
+		}
+	]
+}

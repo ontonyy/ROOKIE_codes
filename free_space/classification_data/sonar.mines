@@ -1,12 +1,3 @@
-Sonar benchmark, contributed by Terry Sejnowski and Paul Gorman.
-
-This file contains 111 signals corresponding to sonar returns from
-metal cylinders.
-
-The following samples that are part of the training set on the
-"aspect angle dependent" experiments are marked with a "*".
-Those not marked with a "*" are part of the test set.
-
 *CM078:
 {0.0491 0.0279 0.0592 0.1270 0.1772 0.1908
  0.2217 0.0768 0.1246 0.2028 0.0947 0.2497

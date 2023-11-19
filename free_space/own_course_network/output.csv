@@ -1,0 +1,83 @@
+Source,Target,Type,Id,Label,Timeset,Weight
+Triin Sarapuu,Indrek Pihl,Undirected,0
+Triin Sarapuu,Elias Markus Ehasalu,Undirected,1
+Anti Ainsar,Tõnis Viiroja,Undirected,2
+Anti Ainsar,Pille Ulmas,Undirected,3
+Anti Ainsar,Mauno Pihu,Undirected,4
+Vjatšeslav Davidjuk,Anti Ainsar,Undirected,5
+Vjatšeslav Davidjuk,Pille Ulmas,Undirected,6
+Vjatšeslav Davidjuk,Martin Filippov,Undirected,7
+Henri Kivi,Anastasia Bogdanova,Undirected,8
+Henri Kivi,Anti Ainsar,Undirected,9
+Henri Kivi,Rivo Orulepa,Undirected,10
+Artjom Nikokošev,Matvei Tarassov,Undirected,11
+Artjom Nikokošev,Siim Pender,Undirected,12
+Artjom Nikokošev,Artjom Gurin,Undirected,13
+Rivo Orulepa,Robert Valdmaa,Undirected,14
+Rivo Orulepa,Brigite Kerge,Undirected,15
+Nikolai Ovtšinnikov,Matvei Tarassov,Undirected,16
+Nikolai Ovtšinnikov,Siim Pender,Undirected,17
+Nikolai Ovtšinnikov,Artjom Nikokošev,Undirected,18
+Mauno Pihu,Tõnis Viiroja,Undirected,19
+Mauno Pihu,Pille Ulmas,Undirected,20
+Paula Pakina,Hanna-Britt Reinpõld,Undirected,21
+Paula Pakina,Ilja Lastovko,Undirected,22
+Paula Pakina,Kristina Soboleva,Undirected,23
+Indrek Pihl,Elias Markus Ehasalu,Undirected,24
+Indrek Pihl,Mattias Tüür,Undirected,25
+Edwin Smagin,Indrek Pihl,Undirected,26
+Edwin Smagin,Matvei Tarassov,Undirected,27
+Anett Seliin Hunt,Karl-Friedrich Lind,Undirected,28
+Anett Seliin Hunt,Herman Petrov,Undirected,29
+Anett Seliin Hunt,Allan Päll,Undirected,30
+Janar Takis,Morten Tšinakov,Undirected,31
+Janar Takis,Karl Erik Seeder,Undirected,32
+Janar Takis,Sven Erko Jaroševitš,Undirected,33
+Pille Ulmas,Tõnis Viiroja,Undirected,34
+Anastasia Bogdanova,Anti Ainsar,Undirected,35
+Viktorija Mištšenko,Aleksei Šohh,Undirected,36
+Viktorija Mištšenko,Jelizaveta Vološina,Undirected,37
+Viktorija Mištšenko,Kristina Soboleva,Undirected,38
+Siim Pender,Matvei Tarassov,Undirected,39
+Raul Akerman,Kauri Kinks,Undirected,40
+Raul Akerman,Sven Erko Jaroševitš,Undirected,41
+Danila Kirejev,Nikita Kirejev,Undirected,42
+Danila Kirejev,Andrey Gorbovskiy,Undirected,43
+Danila Kirejev,Anton Gavrilin,Undirected,44
+Rainer Viirlaid,Alex Vahter,Undirected,45
+Rainer Viirlaid,Mattias Tüür,Undirected,46
+Rainer Viirlaid,Sander Pleesi,Undirected,47
+Anna Prokofjeva,Edvard Paas,Undirected,48
+Lukas Sulg,Edvard Paas,Undirected,49
+Lukas Sulg,Karl-Friedrich Lind,Undirected,50
+Alex Vahter,Mikk Loomets,Undirected,51
+Alex Vahter,Mattias Tüür,Undirected,52
+Ats Raigla,Alan Parik,Undirected,53
+Ats Raigla,Alex Vahter,Undirected,54
+Ats Raigla,Allan Päll,Undirected,55
+Helena Sultson,Alan Parik,Undirected,56
+Helena Sultson,Aleksei Šohh,Undirected,57
+Helena Sultson,Alex Vahter,Undirected,58
+Häli Hinno,Brigite Kerge,Undirected,59
+Martten Mitri,Herman Petrov,Undirected,60
+Mattias Tüür,Sander Pleesi,Undirected,61
+Aleksei Šohh,Matvei Tarassov,Undirected,62
+Aleksei Šohh,Kristina Soboleva,Undirected,63
+Edvard Paas,Karl-Friedrich Lind,Undirected,64
+Helen Ennok,Karl Markus Tarre,Undirected,65
+Helen Ennok,Martin Filippov,Undirected,66
+Artjom Gussev,Edgar Kolesnikov,Undirected,67
+Artjom Gussev,Anton Gavrilin,Undirected,68
+Artjom Gussev,Danila Kirejev,Undirected,69
+Egert Männisalu,Egert Männisalu,Undirected,70
+Egert Männisalu,Annika Kaskma,Undirected,71
+Egert Männisalu,Martten Mitri,Undirected,72
+Alan Parik,Ilja Lastovko,Undirected,73
+Alan Parik,Artjom Nikokošev,Undirected,74
+Alan Parik,Matvei Tarassov,Undirected,75
+Anton Gavrilin,Andrey Gorbovskiy,Undirected,76
+Morten Tšinakov,Karl Erik Seeder,Undirected,77
+Morten Tšinakov,Sven Erko Jaroševitš,Undirected,78
+Kristjan Marcus Sulaoja,Andreas Saarep,Undirected,79
+Annika Kaskma,Martten Mitri,Undirected,80
+Annika Kaskma,Kristi Lepp,Undirected,81
